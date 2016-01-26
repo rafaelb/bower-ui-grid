@@ -1,6 +1,6 @@
 {
   "name": "angular-ui-grid",
-  "description": "A data grid for Angular",
+  "description": "A data grid for Angular - with modified expandable feature",
   "main": [
     "./less",
     "./ui-grid.css",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-ui/ui-grid.git"
+    "url": "https://github.com/rafaelb/ui-grid.git"
   },
   "homepage": "http://ui-grid.info",
   "bugs": {
